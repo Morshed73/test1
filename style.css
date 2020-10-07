@@ -1,0 +1,36 @@
+.navbar-brand{
+    font-family: cursive;
+}
+.row{
+    clear: both;
+}
+.col{
+    width: 25%;
+    float: left;
+    position: relative;
+    background-color: whitesmoke;
+    height: 550px;
+    overflow: auto;
+}
+a:hover{
+    background-color: lightblue;
+}
+a{
+    color: black;
+}
+.image1{
+    position: relative;
+    float: right;
+    top: 5px;
+    height: 280px;
+    width: 330px;
+}
+.col1{
+    width: 75%;
+    height: 550px;
+    overflow: auto;
+}
+.heading1{
+    text-align: justify;
+    font-family: cursive;
+}
